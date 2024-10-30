@@ -14,14 +14,14 @@ public class WishMessageController {
 	@GetMapping("/wish")
    public ResponseEntity<String> getWishMessage(){
 	     LocalDateTime timeAndDate=LocalDateTime.now();
-	     Integer hour=timeAndDate.getHour();
+	     int hour=timeAndDate.getHour();
 	     String message=null;
-	     if(hour<12) {
-	    	  message="Good morning";
-	     }else if(hour<20){
-	    	  message="Good Evening";
+	     if(hour<=12) {
+	    	  message="Good Morning to everyone";
+	     }else if(hour<=20){
+	    	  message="Good Evening to everyone";
 	     }else {
-	         message="Good Night";
+	         message="Good Night to everyone";
 	     }
 	     return new ResponseEntity<String>("wish Message::"+message,HttpStatus.OK);
    }
