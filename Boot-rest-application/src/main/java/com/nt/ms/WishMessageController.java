@@ -17,7 +17,7 @@ public class WishMessageController {
 	     Integer hour=timeAndDate.getHour();
 	     String message=null;
 	     if(hour<12) {
-	    	  message="Good Morning";
+	    	  message="Good morning";
 	     }else if(hour<20){
 	    	  message="Good Evening";
 	     }else {
