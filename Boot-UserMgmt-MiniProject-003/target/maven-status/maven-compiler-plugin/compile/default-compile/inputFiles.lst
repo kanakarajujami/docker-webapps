@@ -1,0 +1,14 @@
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\bindings\ActivateUser.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\bindings\ForgotPassword.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\bindings\LoginCredintials.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\bindings\UserAccount.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\BootUserMgmtMiniProject003Application.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\config\MailConfig.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\entity\UserMaster.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\ms\UserMgmtOperationsController.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\repository\IUserMasterRepository.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\service\FileClass.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\service\IUserMgmtService.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\service\UserMngmtServiceImpl.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\ServletInitializer.java
+C:\Users\hp\git\Mini-local\Boot-UserMgmt-MiniProject-003\src\main\java\com\nt\util\EmailUtils.java

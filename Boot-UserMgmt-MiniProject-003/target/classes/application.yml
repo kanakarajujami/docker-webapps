@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: Boot-UserMgmt-miniproject-03
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://mysqldb:3306/jrtpdb
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQLDialect
+server:
+   port: 4043 
+mailbody:
+  registration:
+      location: src/main/java/com/nt/service/user_registration_body.txt  
+        
+  recoverypwd:
+      location: src/main/java/com/nt/service/user_recoverypwd_body.txt
+  
+             
+
+      
+      
+   
+  
+    

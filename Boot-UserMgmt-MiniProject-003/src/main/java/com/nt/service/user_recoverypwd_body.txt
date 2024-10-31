@@ -1,0 +1,10 @@
+hi {FULL-NAME},<br>
+<br>
+please find your recovery password below<br>
+<br>
+    <b>Recovery Password::{PWD}</b><br>
+    <br>
+    <em>Thanks,</em><br>
+     <em>Admin</em>
+    
+    
