@@ -4,6 +4,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://mysqldb:3306/jrtpdb
+    username: root
+    password: root
   jpa:
     show-sql: true
     hibernate:
